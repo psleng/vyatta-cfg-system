@@ -14,7 +14,6 @@ bin_SCRIPTS += scripts/restricted-shell
 
 sbin_SCRIPTS += scripts/vyatta-grub-setup
 sbin_SCRIPTS += scripts/snmp/if-mib-alias
-sbin_SCRIPTS += scripts/vyatta-interfaces.pl
 sbin_SCRIPTS += scripts/install/install-get-partition
 sbin_SCRIPTS += scripts/install/install-functions
 sbin_SCRIPTS += scripts/install/install-image-new
